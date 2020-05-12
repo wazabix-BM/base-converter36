@@ -1,0 +1,19 @@
+{
+  "name": "base-converter36",
+  "version": "1.3.1",
+  "description": "This package will allow you to convert a number into any base number from 2 to 36",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo error: no test specified && exit 1"
+  },
+  "keywords": [
+    "base",
+    "number",
+    "mathematic",
+    "math",
+    "convert",
+    "conversion"
+  ],
+  "author": "wazabix",
+  "license": "MIT"
+}
